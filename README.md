@@ -1,4 +1,4 @@
- ### Olá, eu sou a Emilly Maia!
+ ### Olá, eu sou a Emilly Maia! 👩🏻‍💻
 
 - 💻 Iniciante nos estudos de HTML, CSS, JS e linguagem C/C++
 - 🖍️ Buscando aprender novas linguagens
