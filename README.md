@@ -1,10 +1,7 @@
  ### Olá, eu sou a Emilly Maia! 👩🏻‍💻
 
-- 💻 Iniciante nos estudos de HTML, CSS, JS e linguagem C/C++
-- 🖍️ Buscando aprender novas linguagens
+- 💻 Estudante do Developer Academy - IFCE 
 - ⏳ Estudante de Ciências da Computação - IFCE 😁
-- 💁 Pronomes: ela/dela
-
 
 
 <div align="center">
