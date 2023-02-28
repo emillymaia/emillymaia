@@ -10,10 +10,11 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emillymaia&layout=compact&langs_count=7&theme=cobalt"/>
 </div>
 <div style="display: inline_block"><br>
-  <img align="center" alt="Emilly-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Emilly-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Emilly-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-   <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;"
+  <img align="center" alt="Javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+ <img align="center" alt="Swift" height="30" width="40" src=" https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg">
+   <img align="right" alt="Emilly-icon" height="150" style="border-radius:50px;"
     src="https://cdn.discordapp.com/attachments/892129715391963159/892129795209580554/download20210901161251.png">
    
 </div>
