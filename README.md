@@ -1,6 +1,6 @@
  ### Olá, eu sou a Emilly Maia! 👩🏻‍💻
 
-- 💻 Estudante do Developer Academy - IFCE 
+- 💻 Estudante do Apple Developer Academy - IFCE 
 - ⏳ Estudante de Ciências da Computação - IFCE 😁
 
 
