@@ -1,13 +1,13 @@
- ### Olá, eu sou a Emilly Maia! 👩🏻‍💻
+![Blue Pink Pixel Quotes Twitter Header](https://github.com/emillymaia/emillymaia/assets/90975234/0aded31c-3339-4f77-ba6d-7ebb583dd955)
 
-- 💻 Estudante do Apple Developer Academy - IFCE 
-- ⏳ Estudante de Ciências da Computação - IFCE 😁
+ 👾 I'm 21 years old, an aspiring iOS developer with a passion for technology and a relentless desire to explore the world of app development.. Currently enrolled as a Computer Science student at IFCE (Federal Institute of Education, Science, and Technology of Ceará), I am also proud to be a part of the esteemed Apple Developer Academy 🍎. This readme serves as a glimpse into my journey, experiences, and projects as I work towards my goal of becoming a proficient iOS developer.
 
-
+## Github Stats 🕹️
 <div align="center">
-  <a href="https://github.com/emillymaia">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/?username=emillymaia&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emillymaia&layout=compact&langs_count=7&theme=cobalt"/>
+  <img height="190em" src="https://github-readme-stats.vercel.app/api/?username=emillymaia&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emillymaia&layout=compact&langs_count=7&theme=dracula"/>
+  
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=emillymaia&theme=dracula)](https://git.io/streak-stats)
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
