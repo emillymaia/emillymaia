@@ -1,6 +1,6 @@
 ![Blue Pink Pixel Quotes Twitter Header](https://github.com/emillymaia/emillymaia/assets/90975234/0aded31c-3339-4f77-ba6d-7ebb583dd955)
 
- 👾 I'm 21 years old, an aspiring iOS developer with a passion for technology and a relentless desire to explore the world of app development.. Currently enrolled as a Computer Science student at IFCE (Federal Institute of Education, Science, and Technology of Ceará), I am also proud to be a part of the esteemed Apple Developer Academy 🍎. This readme serves as a glimpse into my journey, experiences, and projects as I work towards my goal of becoming a proficient iOS developer.
+ 👾 I'm 21 years old, an aspiring iOS developer with a passion for technology and a relentless desire to explore the world of app development... Currently enrolled as a Computer Science student at IFCE (Federal Institute of Education, Science, and Technology of Ceará), I am also proud to be a part of the esteemed Apple Developer Academy 🍎. This readme serves as a glimpse into my journey, experiences, and projects as I work towards my goal of becoming a proficient iOS developer.
 
 ## Github Stats 🕹️
 <div align="center">
